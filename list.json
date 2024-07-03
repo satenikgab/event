@@ -46,56 +46,30 @@
       "cover": "https://ticket.opera.am/uploads/images/3f96f76756b39ad97bcf173b0095f782.jpg"
     },
     {
-      "id": "106",
-      "title": "La Boheme",
-      "date": "July 11",
+      "id": "d491",
+      "title": "The Magic Flute",
+      "date": "July 3",
       "time": "19:00",
-      "type": "opera",
-      "composer": "G. Puccini",
-      "cover": "https://ticket.opera.am/uploads/images/bf31a75e1dafa846fc03dd5a87945d2a.png"
+      "composer": "Wolfgang Amadeus Mozart ",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mozart_magic_flute.jpg",
+      "type": "opera"
     },
     {
-      "id": "107",
-      "title": "La Boheme",
-      "date": "July 12",
+      "id": "0893",
+      "title": "CARMEN",
+      "date": "05 September 2024",
       "time": "19:00",
-      "type": "opera",
-      "composer": "G. Puccini",
-      "cover": "https://ticket.opera.am/uploads/images/bf31a75e1dafa846fc03dd5a87945d2a.png"
+      "composer": "Georges Bizet",
+      "cover": "https://www.opera-online.com/media/images/avatar/production/2662/avatar.jpg",
+      "type": "opera"
     },
     {
-      "id": "108",
-      "title": "Turandot",
-      "date": "July 15 ",
-      "time": "19:00",
-      "type": "opera",
-      "composer": "G. Puccini",
-      "cover": "https://ticket.opera.am/uploads/images/Turandot__1494x1920_Updated-min-min%20(1).jpeg"
-    },
-    {
-      "id": "a73f",
-      "title": "Anoush1",
-      "date": "July 2",
-      "time": "19:00",
-      "composer": "A. Tigranian",
-      "cover": "https://ticket.opera.am/uploads/images/5d34a043044cc714745c06a201800386.jpg",
-      "type": "ballet"
-    },
-    {
-      "id": "72c7",
-      "title": "Masquerade 3",
-      "date": "July 6",
-      "time": "19:00",
-      "composer": "A. Khachaturian",
-      "cover": "https://ticket.opera.am/uploads/images/f0149c96e52c9bacf0dc54a7c3077cc6.jpg"
-    },
-    {
-      "id": "10f7",
-      "title": "Masquerade3",
-      "date": "July 6",
-      "time": "19:00",
-      "composer": "A. Khachaturian",
-      "cover": "https://ticket.opera.am/uploads/images/f0149c96e52c9bacf0dc54a7c3077cc6.jpg",
+      "id": "849c",
+      "title": "ROMEO ET JULIETTE",
+      "date": "08 September 2024",
+      "time": "18:30",
+      "composer": "Charles Gounod",
+      "cover": "https://operanaples.org/wp-content/uploads/2022/09/Season-Posters_Ole-Square-copy.jpg",
       "type": "opera"
     }
   ]
